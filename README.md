@@ -1,1 +1,1 @@
-# tindog-training-
+TinDog Starting Files
